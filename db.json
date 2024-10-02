@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "task": "Study Angular",
+      "category": "Education",
+      "done": true
+    },
+    {
+      "id": 1,
+      "task": "Study Javascript",
+      "category": "Education",
+      "done": false
+    }
+  ]
+}
